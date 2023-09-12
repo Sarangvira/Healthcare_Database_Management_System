@@ -1,4 +1,4 @@
-# Hospital_Management_System
+# Healthcare_Database_Management_System
 
 PROBLEM STATEMENT:
 Customers and Admins both can manage their insurance data with the Health Insurance Management System. The project's major goal is to make it easier for customers to comprehend their claims, benefits, bills and treatments by creating a platform where the system can provide them with all the information they need. Customers, policies, claim to process, and premium records can all be kept track of by the insurance firm. This will be accomplished by building a database management system that makes use of various entities and their relationships to create a useful system.
